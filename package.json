@@ -1,0 +1,19 @@
+{
+  "name": "extract-text",
+  "version": "1.0.0",
+  "description": "",
+  "main": "extract-text.js",
+  "dependencies": {
+    "inquirer": "^7.1.0",
+    "koalanlp": "^2.1.0",
+    "node-hwp": "0.1.0-alpha",
+    "pdf-text-extract": "^1.5.0",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "extract": "node extract-text.js"
+  },
+  "author": "blueng <blueng.choi@gmail.com>",
+  "license": "ISC"
+}
